@@ -1,0 +1,7 @@
+C:\Users\Tich\Documents\Cecilia\AtaqueManticora\AtaqueManticora\bin\Debug\AtaqueManticora.exe.config
+C:\Users\Tich\Documents\Cecilia\AtaqueManticora\AtaqueManticora\bin\Debug\AtaqueManticora.exe
+C:\Users\Tich\Documents\Cecilia\AtaqueManticora\AtaqueManticora\bin\Debug\AtaqueManticora.pdb
+C:\Users\Tich\Documents\Cecilia\AtaqueManticora\AtaqueManticora\obj\Debug\AtaqueManticora.csproj.AssemblyReference.cache
+C:\Users\Tich\Documents\Cecilia\AtaqueManticora\AtaqueManticora\obj\Debug\AtaqueManticora.csproj.CoreCompileInputs.cache
+C:\Users\Tich\Documents\Cecilia\AtaqueManticora\AtaqueManticora\obj\Debug\AtaqueManticora.exe
+C:\Users\Tich\Documents\Cecilia\AtaqueManticora\AtaqueManticora\obj\Debug\AtaqueManticora.pdb
